@@ -1,4 +1,4 @@
-# EswarKalaga-Timeseries-analysis_top10-countries-ARIMA
+# Timeseries-analysis_top10-countries-ARIMA
 ![Map](https://user-images.githubusercontent.com/49823170/132141051-56410e89-2bd7-4316-b73e-a55a702dc59b.JPG)
 
 Figure 1: Map of the top 10 countries that are highly impacted by COVID-19
